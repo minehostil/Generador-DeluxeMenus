@@ -28,7 +28,7 @@
  * Modo (Mult/Suma): Si el premio escala con el nivel o es siempre igual.
  * Niveles: Para poner premios que solo salen cada ciertos niveles (ej: 5, 10, 15).
 
- * Enlace del editor: https://minehostil.github.io/Editor-Command-Panelsv3/
+ * Enlace del editor: https://minehostil.github.io/Generador-DeluxeMenus/
 
 
 
